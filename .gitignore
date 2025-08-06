@@ -1,0 +1,33 @@
+# Node modules & build artifacts
+node_modules/
+dist/
+build/
+.expo/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Coverage/test artifacts
+coverage/
+
+# React Native
+android/.gradle
+ios/Pods/
+*.keystore
