@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-03",
+  "sunlight_minutes": 20,
+  "water_liters": 2,
+  "nutrition": [
+    "Tryptophan",
+    "Greens"
+  ],
+  "movement_minutes": 0,
+  "sleep_hours": 7.5,
+  "social": true,
+  "mental_reset_minutes": 0,
+  "mood": "neutral",
+  "created_at": "2025-08-03T05:43:42.958Z",
+  "updated_at": "2025-08-03T16:40:21.791Z"
+}
