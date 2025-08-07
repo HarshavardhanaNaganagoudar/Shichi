@@ -20,6 +20,25 @@ Built with privacy in mind, **Shichi runs fully offline** and leverages on-devic
 
 ---
 
+## 🛠️ Tech Stack
+
+**Frontend**  
+- ⚛️ React + Vite — Lightweight, fast local-first UI  
+- 🎨 Tailwind CSS — Utility-first, responsive design  
+- 📱 PWA-ready — Designed for mobile-like experience in-browser
+
+**Backend / AI Engine**  
+- 🧠 Node.js — Local logic and summary generation  
+- 🤖 Ollama + Gemma 3n — Local LLM inference for daily & weekly summaries  
+- 🗃️ JSON File Storage — 7-day rotating log retention (auto-cleans at 2:00 AM)
+
+**Voiceover & Media**  
+- 🗣️ ElevenLabs — AI voice generation for video narration  
+- 🖼️ Figma — UI mockups and assets
+
+> 🔐 Everything runs locally — no cloud, no backend server, no external API calls.
+
+---
 ## 📺 Live Demo
 
 🎥 [Watch the Shichi Demo on YouTube](https://youtu.be/AVnyiI5V_g0?si=8V1WkoBTXV8aR4Ek)
