@@ -72,6 +72,20 @@ Each summary includes:
 | ![Home](assets/Home_screen.png) | ![log](assets/Log_screen.png) | ![flower](assets/Flower_screen.png) | ![day summary](assets/DailySummary_screen.png) | ![weekly progress](assets/Weekly_Progress_screen.png) | ![week summary](assets/WeekSummary_screen.png) |
 
 ---
+## 🚧 Future Enhancements
+
+Shichi is designed to grow gently over time. Here are some planned features and ideas for future versions:
+
+- 📅 **Monthly Tracking & Summaries** – Reflect on progress across full months
+- 📆 **Custom Retention Window** – Let users change how many days to retain logs (beyond 7)
+- 🧠 **Model Choice Toggle** – Support switching between Gemma, Mistral, or LLaMA 3 via Ollama
+- 🗓️ **Yearly Wellness Overview** – Visualize trends over the year   
+- 🔔 **Optional Logging Reminders** – Gentle nudges to encourage daily check-ins  
+- 🌍 **Multi-language Support** – Starting with German, Japanese, and more
+
+> 💡 Have ideas to contribute? Open an issue or start a discussion — I'd love to hear from you!
+
+---
 
 ## 🚀 Local Setup
 
