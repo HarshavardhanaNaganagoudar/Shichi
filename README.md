@@ -52,6 +52,8 @@ Each summary includes:
 ```bash
 git clone https://github.com/HarshavardhanaNaganagoudar/shichi.git
 cd shichi
+```
+---
 
 ## 📄 License
 
