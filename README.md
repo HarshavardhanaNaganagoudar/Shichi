@@ -52,3 +52,19 @@ Each summary includes:
 ```bash
 git clone https://github.com/HarshavardhanaNaganagoudar/shichi.git
 cd shichi
+
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to:
+
+- ✅ Share — copy and redistribute the app in any medium or format  
+- ✅ Adapt — remix, transform, and build upon the app
+
+Under the following terms:
+
+- ✍️ **Attribution** — You must give appropriate credit, link to this license, and indicate if changes were made.  
+- 🚫 **NonCommercial** — You may not use the material for commercial purposes.
+
+🔗 [View the full license terms here](https://creativecommons.org/licenses/by-nc/4.0/)
