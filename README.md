@@ -39,6 +39,13 @@ Built with privacy in mind, **Shichi runs fully offline** and leverages on-devic
 > 🔐 Everything runs locally — no cloud, no backend server, no external API calls.
 
 ---
+## 🧭 Architecture Overview
+
+Here's how Shichi is structured under the hood:
+
+![Architecture Diagram](docs/shichi_architecture.png)
+
+---
 ## 📺 Demo Video
 
 🎥 [Watch the Shichi Demo on YouTube](https://youtu.be/AVnyiI5V_g0?si=8V1WkoBTXV8aR4Ek)
